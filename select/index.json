@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Lia / 一番の宝物【OFFICIAL MUSIC VIDEO】",
+  "base_artist": "IA",
+  "createdAt": "2025-12-01T08:40:13.986758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Track of Time (feat. Haich Ber Na & Shay Lia)",
+      "artist": "Busy P feat. Haich Ber Na & Shay Lia",
+      "has_synced": true,
+      "path": "select/01_Track_of_Time_(feat._Haich_Ber_Na_&_Shay_Lia)_Busy_P_feat._Haich_Ber_Na_&_Shay_Lia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Langt borti lia",
+      "artist": "Storm",
+      "has_synced": false,
+      "path": "select/02_Langt_borti_lia_Storm.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Signora Lia",
+      "artist": "Claudio Baglioni",
+      "has_synced": false,
+      "path": "select/03_Signora_Lia_Claudio_Baglioni.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lia",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/04_Lia_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lia",
+      "artist": "Julio Iglesias",
+      "has_synced": false,
+      "path": "select/05_Lia_Julio_Iglesias.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mado Kara Mieru (feat. Lia, Aoi Tada & Kaori Omura)",
+      "artist": "Christopher Tin, Kaori Omura, Lia, Aoi Tada",
+      "has_synced": true,
+      "path": "select/06_Mado_Kara_Mieru_(feat._Lia,_Aoi_Tada_&_Kaori_Omura)_Christopher_Tin,_Kaori_Omura,_Lia,_Aoi_Tada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Latch (feat. Lia Marie Johnson)",
+      "artist": "Boyce Avenue feat. Lia Marie Johnson",
+      "has_synced": true,
+      "path": "select/07_Latch_(feat._Lia_Marie_Johnson)_Boyce_Avenue_feat._Lia_Marie_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Leave Me Alone (feat. Shay Lia)",
+      "artist": "Kaytranada, Shay Lia",
+      "has_synced": false,
+      "path": "select/08_Leave_Me_Alone_(feat._Shay_Lia)_Kaytranada,_Shay_Lia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Latch (feat. Lia Marie Johnson)",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/09_Latch_(feat._Lia_Marie_Johnson)_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shinigami Record (feat. Lia)",
+      "artist": "じん feat.Lia",
+      "has_synced": true,
+      "path": "select/10_Shinigami_Record_(feat._Lia)_じん_feat.Lia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Canaid Lia Fáil (feat. Julie Fowlis)",
+      "artist": "Einar Selvik feat. Julie Fowlis",
+      "has_synced": true,
+      "path": "select/11_Canaid_Lia_Fáil_(feat._Julie_Fowlis)_Einar_Selvik_feat._Julie_Fowlis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Canaid Lia Fáil (ft. Julie Fowlis)",
+      "artist": "Einar Selvik",
+      "has_synced": true,
+      "path": "select/12_Canaid_Lia_Fáil_(ft._Julie_Fowlis)_Einar_Selvik.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lia Lia Lia",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/13_Lia_Lia_Lia_Sheila_On_7.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Leave Me Alone (Ft. Shay Lia)",
+      "artist": "Kaytranada",
+      "has_synced": true,
+      "path": "select/14_Leave_Me_Alone_(Ft._Shay_Lia)_Kaytranada.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Canaid Lia Fáil (feat. Julie Fowlis)",
+      "artist": "Einar selvik",
+      "has_synced": true,
+      "path": "select/15_Canaid_Lia_Fáil_(feat._Julie_Fowlis)_Einar_selvik.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Canaid Lia Fáil (feat. Julie Fowlis) [Acoustic Version]",
+      "artist": "Einar Selvik feat. Julie Fowlis",
+      "has_synced": true,
+      "path": "select/16_Canaid_Lia_Fáil_(feat._Julie_Fowlis)_[Acoustic_Version]_Einar_Selvik_feat._Julie_Fowlis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Canaid Lia Fáil (feat. Julie Fowlis) [Acoustic Version]",
+      "artist": "Einar selvik",
+      "has_synced": true,
+      "path": "select/17_Canaid_Lia_Fáil_(feat._Julie_Fowlis)_[Acoustic_Version]_Einar_selvik.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Liar",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Liar_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LIAR",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_02_LIAR_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LiAR LIAR feat.舞花",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_03_LiAR_LIAR_feat.舞花_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Liar",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_04_Liar_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "LIAR",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_05_LIAR_ONE_OK_ROCK.txt"
+    }
+  ]
+}
